@@ -1,0 +1,45 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\bin\Debug\BLL.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\bin\Debug\BLL.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\bin\Debug\DAL.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\bin\Debug\MODELO.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\bin\Debug\DAL.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\bin\Debug\MODELO.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\obj\Debug\BLL.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\BLL\obj\Debug\BLL.pdb
+E:\projecto\DevExpress\BLL\bin\Debug\BLL.dll
+E:\projecto\DevExpress\BLL\bin\Debug\BLL.pdb
+E:\projecto\DevExpress\BLL\bin\Debug\DAL.dll
+E:\projecto\DevExpress\BLL\bin\Debug\MODELO.dll
+E:\projecto\DevExpress\BLL\bin\Debug\DAL.pdb
+E:\projecto\DevExpress\BLL\bin\Debug\MODELO.pdb
+E:\projecto\DevExpress\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\projecto\DevExpress\BLL\obj\Debug\BLL.dll
+E:\projecto\DevExpress\BLL\obj\Debug\BLL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\bin\Debug\BLL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\bin\Debug\BLL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\bin\Debug\DAL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\bin\Debug\MODELO.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\bin\Debug\DAL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\bin\Debug\MODELO.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\obj\Debug\BLL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\BLL\obj\Debug\BLL.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\bin\Debug\BLL.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\bin\Debug\BLL.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\bin\Debug\DAL.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\bin\Debug\MODELO.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\bin\Debug\DAL.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\bin\Debug\MODELO.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\obj\Debug\BLL.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\BLL\obj\Debug\BLL.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\bin\Debug\BLL.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\bin\Debug\BLL.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\bin\Debug\DAL.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\bin\Debug\MODELO.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\bin\Debug\DAL.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\bin\Debug\MODELO.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\obj\Debug\BLL.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\BLL\obj\Debug\BLL.pdb

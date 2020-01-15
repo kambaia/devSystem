@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{530B4BFA-E494-46A4-920D-E22228F90D75}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DevExpress</RootNamespace>
+    <AssemblyName>DevExpress</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.17.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="views\Alunos\frmMainEstudantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\Alunos\frmMainEstudantes.Designer.cs">
+      <DependentUpon>frmMainEstudantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\Escola\frm_MainEscola.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\Escola\frm_MainEscola.Designer.cs">
+      <DependentUpon>frm_MainEscola.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_AddDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_AddDisciplina.Designer.cs">
+      <DependentUpon>frm_AddDisciplina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_addMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_addMatricula.Designer.cs">
+      <DependentUpon>frm_addMatricula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_addInstituicao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_addInstituicao.Designer.cs">
+      <DependentUpon>frm_addInstituicao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_addAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_addAlunos.Designer.cs">
+      <DependentUpon>frm_addAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_addPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_addPagamento.Designer.cs">
+      <DependentUpon>frm_addPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_AddProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_AddProfessor.Designer.cs">
+      <DependentUpon>frm_AddProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_addUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_addUsuario.Designer.cs">
+      <DependentUpon>frm_addUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_Classe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_Classe.Designer.cs">
+      <DependentUpon>frm_Classe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\frm_meses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\frm_meses.Designer.cs">
+      <DependentUpon>frm_meses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\professor\frm_PerfilProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\professor\frm_PerfilProfessor.Designer.cs">
+      <DependentUpon>frm_PerfilProfessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\professor\frm_avalicao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\professor\frm_avalicao.Designer.cs">
+      <DependentUpon>frm_avalicao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\professor\frm_mainprofessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\professor\frm_mainprofessor.Designer.cs">
+      <DependentUpon>frm_mainprofessor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\professor\frm_provas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\professor\frm_provas.Designer.cs">
+      <DependentUpon>frm_provas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="views\Alunos\frmMainEstudantes.resx">
+      <DependentUpon>frmMainEstudantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\Escola\frm_MainEscola.resx">
+      <DependentUpon>frm_MainEscola.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_AddDisciplina.resx">
+      <DependentUpon>frm_AddDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_addMatricula.resx">
+      <DependentUpon>frm_addMatricula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_addInstituicao.resx">
+      <DependentUpon>frm_addInstituicao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_addAlunos.resx">
+      <DependentUpon>frm_addAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_addPagamento.resx">
+      <DependentUpon>frm_addPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_AddProfessor.resx">
+      <DependentUpon>frm_AddProfessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_addUsuario.resx">
+      <DependentUpon>frm_addUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_Classe.resx">
+      <DependentUpon>frm_Classe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\frm_meses.resx">
+      <DependentUpon>frm_meses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\professor\frm_avalicao.resx">
+      <DependentUpon>frm_avalicao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\professor\frm_mainprofessor.resx">
+      <DependentUpon>frm_mainprofessor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\professor\frm_provas.resx">
+      <DependentUpon>frm_provas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{fe78a4ed-bf11-43b8-8299-bf362063699f}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{23ae75f4-3eca-40b8-9db3-4a0b8c412c31}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MODELO\MODELO.csproj">
+      <Project>{33387c6c-8dcc-44c8-beb2-22fdcfa35646}</Project>
+      <Name>MODELO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\icons8_user_50px.png" />
+    <None Include="Resources\icons8_password_50px.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

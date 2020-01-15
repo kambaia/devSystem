@@ -1,0 +1,136 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\DevExpress.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\DevExpress.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\DevExpress.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\BLL.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\DAL.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\MODELO.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\BLL.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\DAL.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\bin\Debug\MODELO.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\obj\Debug\DevExpress.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\obj\Debug\DevExpress.Form1.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\obj\Debug\DevExpress.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\obj\Debug\DevExpress.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\obj\Debug\DevExpress.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\DevSystem\DevExpress\DevExpress\obj\Debug\DevExpress.pdb
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\DevExpress\DevExpress\bin\Debug\DevExpress.exe.config
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\DevExpress\DevExpress\obj\Debug\DevExpress.exe
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\DevExpress\DevExpress\obj\Debug\DevExpress.pdb
+E:\projecto\DevExpress\DevExpress\bin\Debug\DevExpress.exe.config
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.exe
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.pdb
+E:\projecto\DevExpress\DevExpress\bin\Debug\DevExpress.exe
+E:\projecto\DevExpress\DevExpress\bin\Debug\DevExpress.pdb
+E:\projecto\DevExpress\DevExpress\bin\Debug\BLL.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\DAL.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\MetroFramework.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\MetroFramework.Fonts.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\MODELO.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\BLL.pdb
+E:\projecto\DevExpress\DevExpress\bin\Debug\DAL.pdb
+E:\projecto\DevExpress\DevExpress\bin\Debug\MODELO.pdb
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.csprojResolveAssemblyReference.cache
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.Form1.resources
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.Properties.Resources.resources
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addInstituicao.resources
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.csproj.GenerateResource.Cache
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addAluno.resources
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addMatricula.resources
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addPagamento.resources
+E:\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addUsuario.resources
+E:\projecto\DevExpress\DevExpress\bin\Debug\MySql.Data.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\Google.Protobuf.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\Renci.SshNet.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\BouncyCastle.Crypto.dll
+E:\projecto\DevExpress\DevExpress\bin\Debug\MySql.Data.xml
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\DevExpress.exe.config
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.exe
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\DevExpress.exe
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\DevExpress.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\BLL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\DAL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\MetroFramework.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\MODELO.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\MySql.Data.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\Google.Protobuf.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\Renci.SshNet.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\BLL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\DAL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\MODELO.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\bin\Debug\MySql.Data.xml
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.csprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.Form1.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.Properties.Resources.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addInstituicao.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addPagamento.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addUsuario.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.csproj.GenerateResource.Cache
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_login.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_Matricula.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\projecto\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_Aluno.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\DevExpress.exe.config
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.exe
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\DevExpress.exe
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\DevExpress.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\BLL.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\DAL.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\MetroFramework.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\MODELO.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\Google.Protobuf.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\Renci.SshNet.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\BLL.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\DAL.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\MODELO.pdb
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\bin\Debug\MySql.Data.xml
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.csprojResolveAssemblyReference.cache
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.Form1.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.Properties.Resources.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_Matricula.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addInstituicao.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_Aluno.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addPagamento.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addUsuario.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_login.resources
+C:\Users\Emanu\3D Objects\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.csproj.GenerateResource.Cache
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\DevExpress.exe.config
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.exe
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\DevExpress.exe
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\DevExpress.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\BLL.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\DAL.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\MetroFramework.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\MODELO.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\Google.Protobuf.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\Renci.SshNet.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\BLL.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\DAL.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\MODELO.pdb
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\bin\Debug\MySql.Data.xml
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.csprojResolveAssemblyReference.cache
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.Form1.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.Properties.Resources.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_Matricula.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addInstituicao.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_Aluno.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addPagamento.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_addUsuario.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_login.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.csproj.GenerateResource.Cache
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.professor.frm_mainprofessor.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.Alunos.frmMainEstudantes.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.Escola.frm_MainEscola.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_meses.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.professor.frm_avalicao.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.professor.frm_provas.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_AddDisciplina.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_AddProfessor.resources
+C:\Users\ka.pco\Desktop\DevSystem v2\DevExpress\DevExpress\obj\Debug\DevExpress.views.frm_Classe.resources
